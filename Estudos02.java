@@ -3,8 +3,8 @@ public class Estudos02 {
         int varint = 1;
 
         System.out.print("valor: "+varint);
-        System.out.println("olá mundo!!!!!!!!");
-
+        System.out.println("olá mundo!!!!");
+a s
 
     }
 }
